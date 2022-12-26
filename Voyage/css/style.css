@@ -4,6 +4,9 @@ header{
     background-color: #22282F;
     color: #888;
 }
+header a{
+    color: #888;
+}
 .submenu{
     background-color: #2A313C;
     border-top: #67D4C1 2px solid;
@@ -53,22 +56,6 @@ main{
 }
 .flip-card-back img{
     border-radius: 100px;
-}
-
-.ptdr-c-quoi{
-    position: absolute;
-    top: 28%;
-    right: 13.4%;
-    height: 35px;
-    width: 50px;
-    color: transparent;
-    cursor: default;
-}
-.ptdr-c-quoi p{
-    font-size: 9px;
-}
-.ptdr-c-quoi:hover{
-    color: black;
 }
 
 table{

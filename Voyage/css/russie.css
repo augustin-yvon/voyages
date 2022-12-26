@@ -50,6 +50,9 @@ section{
     justify-content: center;
     align-items: center;   
 }
+header a{
+    color: white;
+}
 main{
     width: 100%;
 }  

@@ -2,6 +2,9 @@ header{
     background-color: rgb(40, 114, 40);
     color: white;
 }
+header a{
+  color: white;
+}
 .submenu{
     background-color: rgb(40, 114, 40);
     border-top: #67A7CF 2px solid;

@@ -4,6 +4,9 @@ header{
     background-color: #041e42;
     color: #888;
 }
+header a{
+    color: #888;
+}
 .submenu{
     background-color: #041e42;
     border-top: #f2c75c 2px solid;
@@ -89,7 +92,7 @@ header{
     background-color: #b6cdec;
     padding: 10vh 0;
     gap: 7vh;
-} 
+}
 .a-propos h1{
     color: #1A4EDA;
     font-size: 3em;

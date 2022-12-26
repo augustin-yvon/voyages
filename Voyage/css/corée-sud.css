@@ -19,6 +19,9 @@ header{
     background-color: black;
 	color: white;
 }
+header a{
+    color: white;
+}
 .submenu{
     background-color: black;
     border-top: #f10040 2px solid;

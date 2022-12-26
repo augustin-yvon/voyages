@@ -1,13 +1,13 @@
 body {
-
 	margin: 0;
 	background-color: #B9DEFE;
-		
-
 }
 header{
     background-color: black;
     color: white;
+}
+header a{
+  color: white;
 }
 .submenu{
     background-color: black;
